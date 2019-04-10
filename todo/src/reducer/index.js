@@ -18,7 +18,7 @@ function reducer(state = initialState, action) {
         ]
       }
     case REMOVE_TODO_ITEM:
-      return {
+      return { 
 
       }
     case TOGGLE_COMPLETE_STATUS:
